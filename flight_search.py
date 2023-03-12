@@ -2,7 +2,7 @@ import requests
 from datetime import datetime, timedelta
 from flight_data import FlightData
 
-API_KEY = "hPdo00cYtDtTl6qd9x1ncMuu7hmatkJX"
+API_KEY = ""
 KIWI_ENDPOINT = "https://tequila-api.kiwi.com/locations/query"
 KIWI_ENDPOINT_PRICE = "https://tequila-api.kiwi.com/v2/search"
 
